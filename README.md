@@ -27,7 +27,10 @@
 ​	inspect_ckpt.py:
 
 ​		读取pt文件代码
-​      
+
+### 硬件：
+
+一张NVIDIA RTX 4090
 
 ### 注：
 
