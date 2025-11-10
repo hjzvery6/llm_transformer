@@ -6,18 +6,27 @@ src文件夹有源代码，包括数据处理和模型代码
 文件夹结构：
 
 results/:
+  
   训练损失曲线、实验结果
 
 scripts/:
+  
   用于训练的脚本文件
 
 src/:
+  
   DataProcessing/:
+    
     en-de/:数据集源文件
+    
     processed_data/:
+      
       经过处理后的数据集，训练集train.de/en，验证集dev.de/en，测试集test.de/en
+      
       分词模型spm_de/en.model，词表spm_de.en.vocab
+      
       数据处理代码iwslt2017_prepare.py
+      
       build_tokenizer.py
       
     
