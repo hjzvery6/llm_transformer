@@ -1,0 +1,296 @@
+Es mag Ihnen seltsam erscheinen, aber ich bin ein großer Fan von Betonblocksteinen.
+Die ersten Betonblocksteine wurden 1868 hergestellt und entstammten einer einfachen Idee: Module aus Zement mit festgelegten Maßen, die zusammenpassen.
+Betonbausteine wurden sehr schnell die meistgenutzte Baueinheit in der Welt.
+Sie versetzten uns in die Lage, Dinge zu bauen, die größer waren als wir, Gebäude, Brücken, ein Stein nach dem anderen.
+Im Wesentlichen war der Betonbaustein zum Baustein unserer Zeit geworden.
+Fast hundert Jahre später, in 1947, kam LEGO hiermit heraus.
+Es wurde der "automatisch verbindende Stein" genannt.
+Und innerhalb weniger Jahre, zog LEGO in jeden Haushalt ein.
+Es wird geschätzt, dass über 400 Milliarden Steine produziert wurden - oder 75 Steine für jede Person auf diesem Planeten.
+Sie müssen kein Ingenieur sein, um schöne Häuser, schöne Brücken oder schöne Gebäude zu erschaffen.
+LEGO machte es für alle möglich.
+LEGO hat im Wesentlichen den Betonbaustein, den Baustein der Welt, genommen und daraus einen Baustein für unsere Vorstellungskraft gemacht.
+In der Zwischenzeit wurde im gleichen Jahr bei den Bell Labs die nächste Revolution angekündigt, der nächste Baustein.
+Der Transistor war eine kleine Plastikeinheit, die uns von einer Welt der statischen, aufeinandergestapelten Bausteine zu einer Welt in der alles interaktiv war bringen würde.
+Wie der Betonblock, erlaubt uns der Transistor viel größere, komplexere Kreisläufe zu bauen, ein Stein nach dem anderen.
+Aber es gibt einen Hauptunterschied: Der Transistor war nur für Experten.
+Ich persönlich akzeptiere das nicht, dass der Baustein unserer Zeit für Experten reserviert ist und daher entschied ich mich, das zu ändern.
+Vor acht Jahren war ich am Media Lab und ich begann diese Idee zu erforschen, wie man die Macht der Ingenieure in die Hand von Künstlern und Designern legen könnte.
+Vor einigen Jahren fing ich an littleBits zu entwickeln.
+Lassen Sie mich Ihnen zeigen, wie sie funktionieren.
+LittleBits sind elektronische Module, die eine spezifische Funktion haben.
+Sie sind vorgefertigt, Licht, Ton, Motor und Sensor zu sein.
+Und das Beste daran ist, dass sie sich mit Magneten zusammen verbinden.
+So können Sie sie nicht falsch herum zusammensetzen.
+Die Steine sind farbcodiert.
+Grün ist Ausgabe, Blau ist Strom, Pink ist Eingabe und Orange ist Kabel.
+Alles, was Sie also tun müssen, ist einen Blauen und einen Grünen miteinander verbinden und sie können ganz schnell größere Kreislaufe bauen.
+Sie fügen einen Blauen an einen Grünen, und sie können Licht machen.
+Sie können einen Schalter dazwischen einfügen und so haben sie einen kleinen Dimmer erstellt.
+Nehmen Sie den Schalter raus um ein Pulsmodul, das hier ist, einzufügen, und Sie haben einen kleinen Blinker gemacht.
+Fügen Sie diesen Buzzer für einen zusätzlichen Effekt hinzu und Sie haben eine Lärmmaschine hergestellt.
+Ich werde das stoppen.
+Über das einfache Spielen hinaus, ist littleBits tatsächlich ziemlich leistungsstark.
+Anstatt, dass man programmieren, verdrahten oder löten muss, erlaubt littleBits Ihnen mit einfachen, intuitiven Gesten zu programmieren.
+Um also das Blinken zu beschleunigen oder zu verlangsamen, drehen Sie einfach an diesem Knopf und er macht den Impuls schneller oder langsamer.
+Die Idee hinter littleBits ist, dass es eine wachsende Bibliothek ist.
+Wir wollen jede einzelne Interaktion auf dieser Welt in einen gebrauchsfertigen Stein bringen.
+Lichter, Töne, Solarelemente, Motoren -- alles sollte verfügbar sein.
+Wir haben littleBits an Kinder verteilt und sie damit spielen sehen.
+Und es war eine unglaubliche Erfahrung.
+Das Schönste ist, wie sie anfangen die Elektronik, die sie im Alltag umgibt zu verstehen und die sie nicht in der Schule lernen.
+Wie zum Beispiel ein Nachtlicht funktioniert, oder warum die Türen des Aufzugs offenbleiben, oder wie ein iPod auf Berührung reagiert.
+Wir haben littleBits auch zu Designschulen gebracht.
+Wir hatten also zum Beispiel Designer mit keinerlei Erfahrung in elektronischen Dingen, die anfingen, mit littleBits als Material zu spielen.
+Hier sehen wir, mit Filz, Papier und Wasserflaschen, wie Geordie ...
+Vor einigen Wochen haben wir littleBits zu RISD gebracht und gaben sie einigen Designern, die keinerlei technische Erfahrung hatten - nur Karton, Holz und Papier - und sagten ihnen: "Macht was."
+Hier ist ein Beispiel eines Projektes, das sie machten, eine bewegungsgesteuerte Konfetti-Kanone.
+Aber warten Sie, dies hier ist wirklich meine Lieblings-Projekt.
+Es ist ein Hummer aus Knete, der Angst in der Dunkelheit hat.
+Für diese Nicht-Ingenieure, wurde littleBits ein weiteres Material, Elektronik wurde einfach ein weiteres Material.
+Und wir wollen dieses Material für alle verfügbar machen.
+Also ist littleBits Open Source.
+Sie können auf die Webseite gehen, alle Designvorlagen runterladen und sie selbst herstellen.
+Wir wollen die Welt der Erschaffer, der Erfinder, der Mitwirkenden ermutigen, denn diese Welt, in der wir leben, diese interaktive Welt, gehört uns.
+Also, ziehen Sie los und fangen Sie an zu erfinden.
+Vielen Dank.
+Also versorgen westliche Regierungen totalitäre Regierungen mit Hilfsmitteln, damit die gegen ihre eigenen Bürger vorgehen können.
+Aber westliche Regierungen helfen sich auch selbst.
+Zum Beispiel in Deutschland nur vor ein paar Wochen der sogenannte Staatstrojaner gefunden. Das war ein Trojaner, der von deutschen Regierungsvertretern verwendet wurde, um ihre eigenen Bürger zu bespitzeln.
+Wenn Sie in einem Kriminalfall verdächtigt werden, dann wird mit ziemlicher Sicherheit Ihr Telefon angezapft.
+Aber heute sind wir weit jenseits dessen.
+Sie zapfen Ihre Internetverbindung an.
+Sie verwenden Mittel wie den Staatstrojaner, um Ihren Computer mit einem Trojaner zu bespielen, der es ihnen erlaubt, Ihre gesamte Kommunikation zu überwachen, Ihre Online-Diskussionen abzuhören, Ihre Passwörter zu sammeln.
+Wenn wir also weiter über solche Dinge nachdenken, dann wäre die offensichtliche Antwort der Leute: "Ok, das klingt schlecht, aber es betrifft mich ja nicht, weil ich ein braver Bürger bin.
+Ich muss mir keine Sorgen machen!
+Ich habe nichts zu verstecken."
+Und diese Argumentation ergibt keinen Sinn.
+Privatsphäre muss gegeben sein.
+Privatsphäre steht nicht zur Debatte.
+Es ist keine Entscheidung zwischen Privatsphäre und Sicherheit.
+Es ist eine Entscheidung zwischen Freiheit und Kontrolle.
+Und während wir heute, im Jahr 2011, unseren Regierungen vertrauen mögen, ist doch jedes Recht, das wir abgeben, für immer abgegeben.
+Und vertrauen wir, vertrauen wir blind einer jeden zukünftigen Regierung, einer Regierung, die wir vielleicht in fünfzig Jahren haben werden?
+Das sind die Fragen, mit denen wir uns die nächsten 50 Jahre beschäftigen müssen.
+Sie werden es bestätigen, denn die Beweise, wie sie in einer früheren Form vorlagen, sind nicht so, wie sie die Beweise gerne darlegen würden.
+Es gibt zum Beispiel die Anekdote, dass der Bericht eines Kapitäns Soundso, der in dieser Gegend große Fischvorkommen beobachtete, nicht genutzt werden kann, oder von Fischereiwissenschaftlern normalerweise nicht gewertet wird, weil er nicht "wissenschaftlich" ist.
+Wir haben also die Situation, dass die Menschen die Vergangenheit nicht kennen, obwohl wir in gebildeten Gesellschaften leben, weil sie den Quellen der Vergangenheit nicht trauen.
+Das zeigt die enorm große Rolle, die ein Meeresschutzgebiet spielen kann.
+Denn durch Meeresschutzgebiete stellen wir im Grunde die Vergangenheit wieder her.
+Wir stellen die Vergangenheit wieder her, die die Menschen nicht begreifen können, weil sich die Normwerte verändert haben und sehr niedrig sind.
+Damit können die Menschen, die ein Meeresschutzgebiet sehen und die von dem Einblick profitieren, den es ermöglicht, ihre Normwerte zurücksetzen.
+Was ist mit den Menschen, denen das nicht möglich ist, weil sie keinen Zugang haben – den Menschen im Mittleren Westen zum Beispiel?
+Hier können, denke ich, die Kunst und der Film vielleicht die Lücke füllen, sowie Simulationen.
+Dies ist die Simulation der Chesapeake Bay.
+Vor langer Zeit gab es dort Grauwale – vor 500 Jahren.
+Und die Farbtöne und -schattierungen erinnern Sie vielleicht an "Avatar".
+Wenn Sie an "Avatar" denken, wenn Sie daran denken, warum die Menschen davon so berührt wurden – abgesehen von der Pocahontas-Geschichte, warum waren sie so berührt von der Bilderwelt?
+Weil es etwas wachruft, das in gewisser Weise verloren gegangen ist.
+Meine Empfehlung also, die einzige, die ich geben werde, richtet sich an Cameron, damit er "Avatar II" unter Wasser dreht.
+Vielen Dank.
+Das Notfallpersonal zog alle Stränge.
+Sie gaben ihr Blutdruckerhöher.
+Sie schlossen sie an die Beatmungsmaschine an.
+Ich war schockiert und bis ins Innere zerrüttet.
+Und ich durchlebte diese Achterbahn, weil sie nach der Stabilisation auf die Intensivstation kam und ich hoffte, dass sie sich erholen würde.
+Und nach zwei, drei Tagen wurde klar, dass Sie nie wieder erwachen würde.
+Sie hatte einen nicht behandelbaren Gehirnschaden erlitten.
+Ihre Familie versammelte sich.
+Und im Verlauf der nächsten acht oder neun Tage, ergaben sie sich dem Geschehenen.
+Am neuten Tag liesen sie sie gehen -- Frau Drucker, eine Frau, eine Mutter und Großmutter.
+Man sagt, dass man die Namen derer die versterben nie vergisst.
+Und das war das erste Mal das ich dies selber erfuhr.
+Die nächsten Wochen machte ich mir Vorwürfe und ich erfuhr zum ersten Mal selber die ungesunde Scham, die in unserer medizinischen Kultur existiert -- ich fühlte mich alleine, isoliert, nicht die Art von gesunder Scham, die man verspürt, weil man nicht mit den Kollegen darüber sprechen kann.
+Sie kennen alle die gesunde Scham, wenn man ein Geheimnis des besten Freundes preis gibt, obwohl dieser einen auf Verschwiegenheit einschwor und man dann erwischt wird und der beste Freund einen damit konfrontiert und mein eine schrecklich Diskussion führt, wenn einem am Ende jedoch das schlechte Gewissen führt und man schwört, dass man einen solchen Fehler nie wieder macht.
+Wenn man Wiedergutmachung leistet und den Fehler niemals wieder macht.
+Das ist die Art von lehrreicher Scham.
+Die ungesunde Art über die ich spreche, ist die, die einen im Innersten krank macht.
+Es ist diejenige, die einem sagt, das nicht das was man gemacht hat schlecht ist, sondern das man selbst schlecht ist.
+Und das war es, was ich fühlte.
+Und es war nicht auf Grund meines Oberarztes, er war sehr lieb.
+Er sprach mit der Familie und ich bin mir sicher, dass er die Wogen glättete und sicher stellte, dass ich nicht verklagt würde.
+Aber ich stellte mir fortan diese Fragen.
+Warum habe ich den Oberarzt nicht gefragt? Warum sendete ich sie nach Hause?
+Und dann in meinen schlimmsten Momenten: Wie konnte ich so einen dummen Fehler machen?
+Warum bin ich in die Medizin gegangen?
+Langsam aber sicher legte es sich.
+Ich begann mich besser zu fühlen.
+Und dann an einem bewölkten Tag, war da ein Loch in den Wolken und die Sonne brach hervor und ich sagte mir vielleicht kann ich mich wieder besser fühlen.
+Und ich handelte mit mir aus, dass falls ich meine Bemühungen zur Perfektion verdoppelte und niemals wieder einen Fehler beging, dass die Stimme verstummen könnte.
+Und sie tat es.
+Und ich arbeitete weiter.
+Und dann passierte es wieder.
+Zwei Jahre später hatte ich Dienst in der Notfallstation in einem kommunalen Krankenhaus nördlich von Toronto und ich begutachtete einen 25 Jahre alten Mann mit gereiztem Rachen.
+Es war viel los und ich in Eile.
+Er zeigte immer hier hin.
+Ich schaute in den Rachen und es war ein klein wenig pink.
+Und ich gab ihm eine Verschreibung für Penicillin und schickte ihn fort.
+Und noch als er aus der Tür ging, zeigte er auf seinen Rachen.
+Zwei Tage später kam ich zu meinem nächsten Notfalldienst und meine Chefärztin bat mich auf ein Gespräch in ihr Büro.
+Und sie sagte die drei Worte: Erinnerst du dich?
+"Erinnerst du dich an den Patienten mit dem gereizten Rachen?"
+Es stellte sich heraus dass er eine Streptokokken-Infektion.
+Er hatte eine potentiell lebensgefährliche Krankheit namens Epiglottitis.
+Sie können das googlen, aber es ist keine Infektion des Rachens sondern der oberen Atemwege und verursacht den Verschluss der Atemwege.
+Und glücklicherweise starb er nicht.
+Er bekam intravenöse Antibotica und erholte sich ein paar Tage später.
+Und ich ging wieder durch die selbe Tortur von Schande und Selbstzweifel, fühlte mich befreit und ging züruck an die Arbeit bis es wieder und wieder und wieder passierte.
+In einer Notfallschicht habe ich zwei Mal eine Blinddarmentzündung übersehen.
+Da gehört schon einiges dazu, besonders wenn man bedenkt, dass man in einem Krankenhaus arbeitet, das zu dieser Zeit nur 14 Patienten pro Nacht hatte.
+In beiden Fällen schickte ich sie nicht nach Hause und es gab wohl auch keine Mängel in ihrer Behandlung.
+Bei einem dachte Ich er hätte Nierensteine.
+Ich ordnete das Röntgen der Nieren an. Als das ohne Befund war, stellte mein Kollege bei der Wiedervorstellung des Patienten eine Verhärtung im unteren rechten Sektor fest und rief die Operateure.
+Der andere hatte starken Durchfall.
+Ich ordnete Fluide an um ihn zu rehydrieren und bat meinen Kollegen ihn ebenfalls zu begutachten.
+Und das tat er und als er eine Verhärtung im rechten unteren Sektor feststellte, rief er die Operateure.
+In beiden Fällen wurde operierte und es ging ihnen gut.
+Beide Fälle nagten an mir, fraßen mich auf.
+Und ich wäre glücklich Ihnen sagen zu können, dass meine schlimmsten Fehler nur in den ersten fünf Jahren passierten, was vielen meiner Kollegen behaupten, aber totaler Unsinn ist.
+Mancher meiner Klöpse passierten in den letzten fünf Jahren.
+Alleine, beschämt und ohne Unterstützung.
+Hier liegt das Problem: Wenn ich nicht mit meinen Fehlern abschließen und über sie reden kann, falls ich die leise Stimme, die mir sagt, was wirklich geschah nicht finden kann, wie kann ich es dann mit meinen Kollegen teilen?
+Wie kann ich ihnen meine Fehler lehren, so dass sie nicht dieselben begehen?
+Falls ich in einen Raum ginge -- wie jetzt gerade, dann habe ich keine Ahnung was ihr über mich denkt.
+Wann haben sie das letzte mal von jemandem gehört der von Fehlschlag über Fehlschlag über Fehlschlag sprach?
+Oh ja, sie gehen zu einer Cocktail Party und da mag man über irgendeinen anderen Doktor hören, aber man wird nicht jemanden über die eigenen Fehler reden hören.
+Wenn ich in einen Raum voll mit Kollegen ginge und um ihre sofortige Unterstützung bitten würde und anfinge ihnen zu erzählen, was ich Ihnen gerade erzählt habe, würde ich sehr wahrscheinlich nicht das Ende der zweiten Geschichte erreichen, bevor es ihnen wirklich unangenehm würde, irgend jemand würde einen Witz einflechten, sie würden das Thema wechseln und den Rest vergessen.
+Und tatsächlich wenn ich oder meinen Kollegen wüssten, dass ein Orthopäde in meinem Krankenhaus jemandem das falsche Bein abgenommen hätte, dann glauben sie mir, ich hätte Probleme ihm in die Augen zu schauen.
+Das ist das System in dem wir leben.
+Es ist eine total Verleugnung von Fehlern.
+Es ist ein System in dem es zwei grundlegende Positionen gibt -- diejenigen, welche Fehler machen und diejenigen, welche keine machen. Diejenigen, die Schlafmangel einschränkt und die ohne Einschränkung, die mit schlechten Ergebnissen und die mit guten Ergebnissen.
+Es ist fast eine ideologische Reaktion so wie Antikörper, die einen Menschen attackieren.
+Und es gibt die Idee, dass wenn wir diejenigen, die Fehler machen aus der Medizin verbannen, dass uns ein sicheres System bleibt.
+Aber es gibt zwei Probleme dabei.
+In meinen ungefähr 20 Jahren des medizinischen Sendungsbewusstseins und Journalismus, habe ich eine persönliche medizinische Studie über medizinische Fehler und falsche Behandlungen erstellt um so alles mir mögliche für einen meiner ersten Artikel, den ich für den Toronto Star zu meiner Show "White Coat, Black Art", schrieb, zu lernen.
+Und was ich lernte, ist dass Fehler absolut unumgänglich sind.
+Wir arbeiten in einem System in dem jeden Tag Fehler passieren, in dem ein von 10 Medikationen entweder eine Falsche oder falsch dosiert ist, in dem Krankenhausinfektionen immer und immer zahlreicher werden und Verwüstung oder Tot verursachen.
+In diesem Staat sterben etwa 24.000 Kanadier an umgänglichen Fehlern.
+In den Vereinigten Staaten beziffert das Institut für Medizin die Zahl bei 100.000.
+Beides sind starke Untertreibungen, weil wir das Problem nicht so genau betrachten, wie wir es sollten.
+Und ist ist die Crux.
+In einem Krankenhaussystem in dem das medizinische Wissen sich alle zwei bis drei Jahre verdoppelt, können wir nicht mithalten.
+Schlafmangel ist allgegenwärtig.
+Wir können ihn nicht loswerden.
+Wir besitzen einen kognitiven Fehler, so dass wir einen perfekten Krankheitsverlauf für einen Patienten mit Brustschmerzen nehmen kann.
+Dann nehme ich den selben Patienten mit Brustschmerz, mache ihn verschwitzt und geschwätzig und gebe noch einen leicht alkoholisierten Atem dazu und plötzlich ist die Geschichte durchsetzt mit Verachtung.
+Ich nehme nicht den gleichen Verlauf.
+Ich bin kein Roboter; ich mache Dinge nicht immer gleich.
+Und meine Patienten sind keine Autos; sie berichten mir ihre Symptome nicht immer in der gleichen Art.
+All das zusammengefasst sind Fehler unvermeidbar.
+Wenn man also das System so nimmt, wie ich es gelehrt wurde, und alle fehlerbehafteten Gesundheitsexperten aussortiert, dann ist am Ende keiner mehr übrig.
+Und kennen sie die Leier über Menschen, die nicht über ihre schlimmsten Fälle sprechen wollen?
+In meiner Sendung "White Coat, Black Art." habe ich die Angewohnheit zu sagen, "Dies ist mein schlimmster Fehler" Ich würde zu jedem vom Rettungsassistenten bis zum Chefarzt der Kardiologen sagen, "Dies ist mein schlimmster Fehler" blah, blah, blah, blah, blah, "Was ist mit Ihrem?" and dann zeige ich mit dem Mikrofon zu ihm.
+Und dann erweitern sich ihre Pupillen, sie sind vor den Kopf gestoßen, dann schauen sie runter und schlucken schwer, und fangen an ihre Geschichten zu erzählen.
+Sie wollen Ihre Geschichten erzählen. Sie wollen ihre Geschichten teilen.
+Sie wollen in der Lage sein sagen zu können, "Schau, mache nicht dieselben Fehler, die ich fabrizierte."
+Was sie benötigen ist eine Umgebung, welche sie in der Lage dazu versetzt.
+Was sie brauchen ist eine neue medizinische Kultur.
+Und es beginnt mit einem Arzt.
+Der neu definierte Arzt ist ein Mensch, weiß um seine Menschlichkeit, akzeptiert sie, ist nicht stolz darauf Fehler zu machen, aber setzt alles daran etwas aus ihnen zu lernen, sodass es weitergegeben werden kann.
+Sie teilt ihre Erfahrungen mit anderen.
+Sie unterstützt wenn andere von ihren Fehlern reden.
+Und sie zeigt anderen deren Fehler auf, nicht um bloßzustellen, sondern in einer liebevollen, unterstützenden Art so dass alle davon profitieren.
+Und sie arbeitet in einer medizinischen Kultur, die anerkennt, dass Menschen das System mit Leben füllen und wenn das so ist, dann machen Menschen auch Fehler von Zeit zu Zeit.
+So dass das System sich dahin entwickelt Backups zu erstellen, welche es einfacher machen Fehler aufzuspüren, die Menschen unausweichlich machen und es ebenso ermöglicht liebevolle, unterstützenden Räume zu schaffen, in denen jeder, der das Gesundheitswesen beobachtet, auch tatsächlich Dinge ansprechen kann, welche potentielle Fehler darstellen und dafür sogar belohnt wird. Und das speziell für Menschen wie mich, die Fehler machen und für die Begradigung dieser belohnt werden sollten.
+Mein Name ist Brian Goldman.
+Ich bin der neu definierte Arzt.
+Ich bin ein Mensch. Ich mache Fehler.
+Ich bedaure das. bin aber aber ich versuche best möglich daraus zu lernen, um es andere weiterzugeben.
+Ich weis nicht was Sie von mir halten, aber damit kann ich leben.
+Lassen Sie mich mit drei meiner eigenen Worte schließen: I erinnere mich.
+Wir müssen Wege finden. uns diesen Herausforderungen zu stellen: diesen Problemen, diesem Leid.
+Denn letztlich hängt unsere Menschlichkeit, von unser aller Menschlichkeit ab.
+In meiner Arbeit habe ich ganz einfache Dinge gelernt.
+Ich habe ein paar ganz einfache Dinge gelernt.
+dass wir alle mehr sind, als das Schlimmste, was wir jemals getan haben.
+Ich glaube, das gilt für jeden Menschen auf dem Planeten.
+Wenn jemand lügt, ist er nicht nur einfach ein Lügner.
+Wenn jemand etwas nimmt, das ihm nicht gehört, ist er nicht nur ein Dieb.
+Selbst wer jemanden tötet, ist nicht nur ein Mörder.
+Und weil das so ist, gibt es eine grundlegende menschliche Würde, die das Gesetz respektieren muss.
+Ich glaube auch, dass in vielen Teilen dieses Landes, und mit Sicherheit in vielen Teilen der Erde, das Gegenteil von Armut nicht Reichtum ist.
+Ich glaube das nicht.
+Ich glaube, dass an zu vielen Orten das Gegenteil von Armut Gerechtigkeit ist.
+Und schließlich glaube ich, dass, obwohl sie so dramatisch ist, so schön und inspirierend, und so anregend, wir am Ende nicht an unserer Technologie gemessen werden, nicht an den Dingen, die wir entwickeln, nicht an unserem Intellekt und Verstand.
+Schlussendlich wird eine Gesellschaft nicht daran gemessen, wie sie ihre Reichen und Mächtigen und Privilegierten behandelt, sondern daran, wie sie mit den Armen umgeht, den Verurteilten, den Inhaftierten.
+Denn in diesem Kontext erst beginnen wir, die wahrhaft erstaunlichen Dinge zu begreifen, die uns ausmachen.
+Manchmal verliere ich das Gleichgewicht. Eine Geschichte zum Schluss.
+Manchmal dränge ich zu sehr.
+Ich werde müde, wie wir alle.
+Manchmal eilen diese Ideen unserem Denken voraus, auf ganz wichtige Art und Weise.
+Ich vertrete diese Kinder, die zu sehr harten Strafen verurteilt wurden.
+Ich gehe ins Untersuchungsgefängnis und besuche einen Mandanten, der 13 oder 14 Jahre alt sein mag, und der als Erwachsener vor Gericht stehen soll.
+Dann frage ich mich: Wie konnte das passieren?
+Wie kann ein Richter jemanden in etwas verwandeln, das er nicht ist?
+Der Richter betrachtet ihn als Erwachsenen, aber ich sehe ein Kind.
+Eines Nachts blieb ich zu lange auf und dachte, meine Güte, wenn ein Richter uns in etwas anderes verwandeln kann, dann muss er Zauberkräfte haben.
+Genau, Bryan, der Richter hat Zauberkräfte.
+Du solltest dir auch welche wünschen.
+Und weil es spät war, und ich nicht mehr richtig denken konnte, fing ich an, an einem Antrag zu arbeiten.
+Ich hatte einen 14jährigen, armen schwarzen Jungen als Mandanten.
+Und ich fing an mit diesem Antrag. Die Überschrift lautete: »Antrag, meinen armen, 14jährigen schwarzen Mandanten wie einen privilegierten, weißen, 75jährigen Topmanager zu behandeln.‌«
+in meinem Antrag erklärte ich, dass Fehlverhalten der Staatsanwaltschaft und der Polizei sowie Verfahrensfehler zu berücksichtigen seien.
+Es gab eine verrückte Zeile darüber, dass in diesem Land nichts mehr Rechtens ist, dass es nur noch Fehlverhalten gibt.
+Am nächsten Morgen wachte ich auf und wusste nicht mehr, ob ich diesen verrückten Antrag nur geträumt oder ihn tatsächlich geschrieben hatte.
+Und zu meinem Entsetzen hatte ich ihn nicht nur geschrieben, sondern auch ans Gericht geschickt.
+Ein paar Monate gingen vorüber und ich hatte gerade alles vergessen.
+Schließlich aber entschied ich mich, mein Gott, ich muss ja ins Gericht und diesen verrückten Fall vortragen.
+Ich stieg ins Auto und war wirklich überwältigt – überwältigt.
+Ich fuhr also zum Gericht.
+Und ich dachte, das wird so schwer, so schmerzhaft.
+Schließlich stieg ich aus meinem Auto und ging die Treppe zum Gericht hoch.
+als ich die Treppe zum Gericht hochging. war da ein älterer, schwarzer Mann, der Hausmeister im Gericht.
+Als er mich sah, kam er zu mir herüber und sagte: »Wer sind Sie?«
+Ich sagte: »Ich bin Anwalt.« Er sagte: »Sie sind Anwalt?« Ich sagte: »Ja.«
+Er kam zu mir und umarmte mich.
+Dann flüsterte er mir ins Ohr.
+Er sagte: »Ich bin so stolz auf Sie.«
+Und ich muss sagen, es gab mir Kraft.
+Es berührte etwas ganz tief in mir, Identität, die Fähigkeit jedes einzelnen, etwas beizutragen zu einer Gemeinschaft, zu einer Perspektive der Hoffnung.
+Nun, ich betrat den Gerichtssaal.
+Sobald der Richter mich sah,
+sagte er: »Herr Stevenson, haben Sie diesen verrückten Antrag gestellt?«
+Ich sagte: »Ja.« Und dann fingen wir an, zu diskutieren.
+Immer mehr Menschen kamen herein, einfach weil sie wütend waren,
+dass ich diese verrückten Sachen geschrieben hatte.
+Polizeibeamte kamen herein und stellvertretende Staatsanwälte und Büroangestellte.
+Im Handumdrehen war der Gerichtssaal voller Menschen, die wütend waren, dass wir über Hautfarbe sprachen, über Armut, über Ungleichheit.
+Aus meinem Augenwinkel sah ich den Hausmeister auf und ab gehen.
+Er sah immer wieder durch das Fenster und konnte das ganze Tohuwabohu hören.
+Er ging auf und ab.
+Schließlich kam dieser ältere schwarze Mann mit einem sehr besorgten Gesichtsausruck in den Gerichtssaal und setzte sich direkt hinter mich, beinahe auf die Verteidigungsbank.
+Zehn Minuten später kündigte der Richter eine Pause an.
+Während der Pause kam ein Polizeibeamter herein, den es störte, dass der Hausmeister im Gerichtssaal war.
+Dieser Deputy rannte hinüber zu dem älteren Schwarzen.
+Er sagte: »Jimmy, was machen Sie im Gerichtssaal?«
+Der ältere schwarze Mann stand auf. Er sah den Deputy an, dann sah er mich an, und er sagte: »Ich bin hergekommen, um diesem jungen Mann zu sagen, Verlieren Sie das Ziel nicht aus den Augen. Geben Sie nicht auf.‌«
+Ich bin zur TED gekommen, weil ich glaube, dass viele von Ihnen verstanden haben, dass das moralische Pendel des Universums weit ausschwingt, aber dass es der Gerechtigkeit zuneigt.
+Dass wir als Menschen nicht vollständig entwickelt sind, solange wir uns nicht um Menschenrechte und Grundwerte kümmern.
+Dass unser aller Überleben mit dem Überleben jedes einzelnen verknüpft ist.
+Dass wir unsere Visionen von Technologie und Gestaltung, von Unterhaltung und Kreativität verbinden müssen mit Menschlichkeit, Mitleid und Gerechtigkeit.
+Und vor allem möchte ich jenen von Ihnen, die das ebenso sehen, einfach nur sagen: Verlieren Sie das Ziel nicht aus den Augen. Geben Sie nicht auf.
+Sie haben bei diesem Publikum, dieser Gemeinschaft einen offensichtlichen Wunsch gesehen und gehört, Ihnen zu helfen und etwas zu tun.
+Was können wir noch tun?
+Bryan Stevenson: Nun, es gibt überall Möglichkeiten.
+Wenn Sie in Kalifornien leben, gibt es da in diesem Frühling einen Volksentscheid, bei dem es darum geht, tatsächlich eine Anstrengung zu unternehmen, etwas von dem Geldstrom umzuleiten, der sonst in die Politik der Bestrafung fließt.
+Hier, in Kalifornien zum Beispiel wird man in den nächsten fünf Jahren eine Milliarde Dollar für die Todesstrafe ausgeben. eine Milliarde Dollar.
+Und trotzdem enden 46 % aller Tötungsdelikte nicht mit einer Verhaftung.
+56 % aller Vergewaltigungsfälle kommen nicht vor Gericht.
+Hier gibt es die Chance, etwas zu tun.
+Dieses Referendum wird vorschlagen, das Geld in mehr Sicherheitskräfte und Sicherheit zu investieren.
+Ich glaube, überall gibt es Möglichkeiten.
+Während der letzten drei Jahrzehnte ist die Verbrechensrate in Amerika immens gesunken.
+Diese Tatsache wird oft in einen Zusammenhang mit den erhöhten Inhaftierungszahlen gestellt.
+Was würden Sie jemandem sagen, der das glaubt?
+Nun, tatsächlich hat sich die Zahl der Gewaltverbrechen nicht sehr verändert.
+Der Großteil der Masseninhaftierungen in diesem Land fand nicht wirklich in der Klasse der Gewaltverbrechen statt.
+Es war der fehlgeleitete Kreuzzug gegen Drogen.
+Daher kommen die dramatischen hohen Zahlen bei den Gefängnisinsassen.
+Wir haben uns hinreißen lassen von der Rhetorik der Bestrafung.
+Nun haben wir »Drei-Verstöße«-Gesetze, die Menschen für immer hinter Gitter bringen, für einen Fahrraddiebstahl, für den Diebstahl geringfügigen Gutes, statt dass man sie zwingt, die Sachen den Opfern zurückzugeben.
+Ich glaube, wir müssen mehr tun, um Menschen zu helfen, die Opfer einer Straftat geworden sind, nicht weniger.
+Und ich glaube, dass unsere jetzige Bestrafungsphilosophie niemandem hilft.
+Ich glaube, das ist es, was wir ändern müssen.
+Bryan, Sie haben hier wirklich eine Saite zum Schwingen gebracht.
+Sie sind eine inspirierende Persönlichkeit.
+Danke, dass Sie bei TED waren. Vielen Dank.

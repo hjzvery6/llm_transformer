@@ -1,0 +1,35 @@
+文件说明
+- train.tags.en-de.en / train.tags.en-de.de
+  - 训练集的平行语料（英文/德文分别在两个文件）。
+  - 含有标注标签（如 <doc> , <seg id=...> 等）；需要过滤掉标签行，只保留真实句子。
+  - 两个文件在去除标签后，按行对齐（一行英文对应一行德文）。
+
+- IWSLT17.TED.dev2010.en-de.en.xml / IWSLT17.TED.dev2010.en-de.de.xml
+  - 开发集（验证集）XML 格式，包含 <seg id="...">句子</seg> 。
+  - 英/德文件通过相同的 seg id 对齐。
+
+- IWSLT17.TED.tstYYYY.en-de.en.xml / IWSLT17.TED.tstYYYY.en-de.de.xml （2010–2015）
+  - 测试集（不同年份），结构同 dev，按 seg id 对齐。
+
+- README
+  - 数据集说明与来源描述（不参与训练）。
+
+处理步骤
+- 提取与清洗：
+  - 从 train.tags.* 里过滤标签行，只保留句子，按行对齐成 (en, de) 对。
+  - 从各 *.xml 文件中解析 <seg id> ，按 id 对齐成 (en, de) 对。
+- 划分数据：
+  - 训练：使用 train.tags.* 。
+  - 验证：使用 dev2010.*.xml 。
+  - 测试：使用 tst2010–2015.*.xml 。
+- 训练分词器（推荐子词 BPE）：
+  - 为英文和德文分别训练一个 SentencePiece 模型（建议词表大小与模型配置一致，如 10000）。
+  - 明确设置 pad_id=0 ，与你的模型的 pad_token=0 保持一致。
+- 编码与保存：
+  - 用训练好的分词器把各数据集句子转成 ids ，并在目标端加 <bos> 和 <eos> 。
+  - 可保存为文本（每行一条样本的 id 列表）或直接构造 PyTorch Dataset。
+- 构建 Dataset/DataLoader：
+  - 实现 collate_fn 动态 pad 与掩码生成（ src_mask 、 tgt_mask ），与当前 Transformer 的掩码形状契合。
+- 训练与推理：
+  - 训练时，损失对齐 tgt_inp 与 tgt_out （右移一位），忽略 pad_id 。
+  - 推理时，按步生成，维护随长度变化的 tgt_mask （前瞻掩码）
