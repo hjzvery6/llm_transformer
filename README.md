@@ -13,24 +13,22 @@ scripts/:
   
   用于训练的脚本文件
 
-src/:
-  
-  DataProcessing/:
-    
-    en-de/:数据集源文件
-    
-    processed_data/:
+src/DataProcessing/:
+
+  数据集源文件、处理后的数据集、数据集处理和分词器代码
+
+src/Transformer/:
+
+  模型各部分代码
+
+src/train.py:
+
+  训练代码
+
+src/inspect_ckpt.py:
+
+  读取pt文件代码
       
-      经过处理后的数据集，训练集train.de/en，验证集dev.de/en，测试集test.de/en
-      
-      分词模型spm_de/en.model，词表spm_de.en.vocab
-      
-      数据处理代码iwslt2017_prepare.py
-      
-      build_tokenizer.py
-      
-    
-    
 
 注：
 报告中有一个错误，在表2：模型不同超参数的对比中，我对比了不同头的数量、以及输入维度大小的影响，但是对比实验中只分别修改了num_heads和d_model，没有修改其他超参数，报告中的表有错误，正确的表在results文件夹下。
