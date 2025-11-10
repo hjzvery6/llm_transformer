@@ -4,10 +4,13 @@ scripts文件夹下有.sh文件，通过bash命令执行可以训练模型
 src文件夹有源代码，包括数据处理和模型代码
 
 文件夹结构：
+
 results/:
   训练损失曲线、实验结果
+
 scripts/:
   用于训练的脚本文件
+
 src/:
   DataProcessing/:
     en-de/:数据集源文件
